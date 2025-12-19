@@ -1,4 +1,4 @@
-👋 Hi, I’m Alex Patil
+👋 Hi, I’m Ganesh Shinde
 
 Software Engineer • Full-Stack (Backend-First) • Automation & Systems
 
