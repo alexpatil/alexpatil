@@ -1,60 +1,103 @@
 👋 Hi, I’m Alex Patil
 
-Software Engineer • Backend & Automation • Open Source Contributor
+Software Engineer • Full-Stack (Backend-First) • Automation & Systems
 
 Welcome to my GitHub profile.
 
-I’m a software engineer with hands-on experience in building backend systems, automation tools, and production-grade web applications. My work focuses on writing clean, maintainable code and solving real-world problems through practical engineering solutions.
+I’m a software engineer with hands-on experience building full-stack applications, backend platforms, and automation-driven systems. I work across the stack, but my primary focus is on backend architecture, system design, and building reliable services that operate well in production.
 
-I have worked across the full stack, but my primary interests lie in backend architecture, microservices, automation, and system reliability.
-
----
-
-🧠 Core Expertise
-
-- Backend Development: Node.js, Go, PHP
-- Frontend: React, JavaScript
-- Databases: MongoDB, MySQL
-- Cloud & Infrastructure: AWS, DigitalOcean
-- Automation & Tooling: Browser automation, workflow systems, internal tools
-- Architecture: REST APIs, microservices, auth systems
+My approach to engineering emphasizes clarity, maintainability, and practical trade-offs over unnecessary complexity.
 
 ---
 
-🔍 Open Source & Engineering Philosophy
+## Technical Expertise
 
-I strongly believe in open-source software and simple, well-documented systems.  
-I prefer tools that are:
+### Frontend
+- Next.js (App Router, Server Actions, Middleware)
+- React
+- JavaScript & TypeScript
+- Tailwind CSS, responsive UI design
+- Modern frontend architecture patterns
+
+### Backend
+- Node.js (Fastify, Express)
+- Go (microservices, auth & identity systems)
+- PHP (service-oriented applications)
+- REST API design & implementation
+- Background jobs & async workflows
+
+### Databases & Storage
+- PostgreSQL
+- MongoDB
+- MySQL
+- Prisma ORM
+- Data modeling & migrations
+
+### Authentication & Security
+- JWT-based authentication
+- Role-Based Access Control (RBAC)
+- Secure credential storage (bcrypt)
+- Token lifecycle management
+- API security best practices
+
+### Cloud & Infrastructure
+- AWS (EC2, IAM basics, deployments)
+- DigitalOcean
+- Vercel (serverless & edge deployments)
+- Linux-based environments
+- Environment-based configuration
+
+### Automation & Tooling
+- Browser automation (Puppeteer)
+- Chrome Extensions
+- Workflow automation systems
+- Internal tooling & operational scripts
+
+### System Design & Architecture
+- Microservices architecture
+- API versioning strategies
+- Service-to-service communication
+- Scalable backend design
+- Observability-aware systems
+
+---
+
+## Open Source & Engineering Philosophy
+
+I strongly believe in open-source software and the value of well-documented, composable systems.  
+I prefer tools and architectures that are:
+
 - Explicit rather than magical
-- Easy to reason about
+- Easy to reason about and debug
 - Designed for long-term maintenance
 
-Most of my public repositories are experiments, building blocks, or production-inspired services intended to be reused and improved.
+Most repositories here reflect real-world use cases, platform components, or reusable building blocks.
 
 ---
 
-🌱 Continuous Learning
+## Continuous Learning
 
-Technology evolves constantly, and I actively keep improving my skills by:
-- Exploring system design patterns
-- Working with distributed services
-- Learning performance and security best practices
-- Building side projects that solve practical problems
+I continuously refine my skills by:
+- Studying system design and distributed systems concepts
+- Improving backend performance and security
+- Deepening my Go and Node.js expertise
+- Exploring scalable frontend patterns with Next.js
 
 ---
 
-🤝 Collaboration
+## Collaboration
 
 I’m open to:
 - Open-source collaboration
-- Technical discussions
-- Backend, automation, or system design work
+- Backend and full-stack development work
+- Automation and systems engineering projects
+- Technical discussions and code reviews
 
 If something here aligns with your interests, feel free to reach out.
 
 ---
 
-📬 Contact
+## Contact
 
 - Email: codingpenin@gmail.com  
 - Website: https://alexpatil.github.io
