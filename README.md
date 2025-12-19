@@ -1,22 +1,60 @@
-👋 Hi there, I'm Alex Patil
+👋 Hi, I’m Alex Patil
 
-💻 Full-Stack Developer | 🌐 Web Enthusiast | 🚀 Tech Enthusiast
+Software Engineer • Backend & Automation • Open Source Contributor
 
-🌟 Welcome to my GitHub profile! I'm a full-stack developer with a deep passion for crafting elegant and functional web applications. 
-My goal is to leverage technology to solve real-world problems, enhance user experiences, and make the digital world more accessible.
+Welcome to my GitHub profile.
 
-🛠️ Proficiencies:
-- Front-End: React, JavaScript
-- Back-End: Node.js, Express, PHP
-- Databases: MySql, MongoDB
-- Cloud Services: AWS, Digitial Occean
+I’m a software engineer with hands-on experience in building backend systems, automation tools, and production-grade web applications. My work focuses on writing clean, maintainable code and solving real-world problems through practical engineering solutions.
 
-🔍 I'm a firm believer in the power of open source software and the collaborative spirit of the developer community. 
-I'm always on the lookout for exciting open-source projects to contribute to.
+I have worked across the full stack, but my primary interests lie in backend architecture, microservices, automation, and system reliability.
 
-🌱 Learning is a lifelong journey, and I'm dedicated to staying on the cutting edge of technology. 
-I'm excited about exploring new tools, frameworks, and best practices to refine my craft.
+---
 
-🤝 Let's connect and explore opportunities for collaboration on projects, share ideas, or discuss anything tech-related. Feel free to reach out!
+🧠 Core Expertise
 
-📧 Contact me: [codingpenin@gmail.com] | 🌐 Website: [https://alexpatil.in]
+- Backend Development: Node.js, Go, PHP
+- Frontend: React, JavaScript
+- Databases: MongoDB, MySQL
+- Cloud & Infrastructure: AWS, DigitalOcean
+- Automation & Tooling: Browser automation, workflow systems, internal tools
+- Architecture: REST APIs, microservices, auth systems
+
+---
+
+🔍 Open Source & Engineering Philosophy
+
+I strongly believe in open-source software and simple, well-documented systems.  
+I prefer tools that are:
+- Explicit rather than magical
+- Easy to reason about
+- Designed for long-term maintenance
+
+Most of my public repositories are experiments, building blocks, or production-inspired services intended to be reused and improved.
+
+---
+
+🌱 Continuous Learning
+
+Technology evolves constantly, and I actively keep improving my skills by:
+- Exploring system design patterns
+- Working with distributed services
+- Learning performance and security best practices
+- Building side projects that solve practical problems
+
+---
+
+🤝 Collaboration
+
+I’m open to:
+- Open-source collaboration
+- Technical discussions
+- Backend, automation, or system design work
+
+If something here aligns with your interests, feel free to reach out.
+
+---
+
+📬 Contact
+
+- Email: codingpenin@gmail.com  
+- Website: https://alexpatil.github.io
